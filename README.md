@@ -1,5 +1,6 @@
 # ddos-gui
 ddos gui written in python (with pyqt5)
 
-PIP
+Requirement
+
 `pip install pyqt5`
