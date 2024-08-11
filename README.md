@@ -6,3 +6,4 @@ Requirement pip
 `pip install pyqt5`
 
 NOTICE : This version is kr
+(and I will add en ver.)
