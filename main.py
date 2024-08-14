@@ -71,7 +71,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         
     def stop(self):
         with self.lock:  # 락을 사용하여 콘솔에 대한 동시 접근 방지
-            self.console.append("멈추는 거 안돼~~ ㅋㅋㅋㅋㅋㅋㅋ")
+            self.console.append("[ERROR] IT DOESN'T FEATURED!")
         
     def console_clear(self):
         with self.lock:  # 락을 사용하여 콘솔에 대한 동시 접근 방지
